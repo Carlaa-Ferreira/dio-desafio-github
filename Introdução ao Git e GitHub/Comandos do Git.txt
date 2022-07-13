@@ -1,0 +1,7 @@
+Alguns comandos e suas respectivas funções dentro do Git.
+
+git commit = salva alterações realizadas no espaço de trabalho local.
+git push = arquivos são salvos no repositório remoto correspondente ao seu repositório local.
+git add = adiciona os arquivos solicitados ao ambiente de stage quando você modifia um arquivo.
+git status = permite ver quais arquivos estão sendo rastreados pelo git e quais modificações já foram enviadas para o stage.
+git clone = baixar cópia da versão mais recente de um projeto e salva no computador.
